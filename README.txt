@@ -7,3 +7,6 @@ https://pypi.org/project/stockquotes/
 Requirements
 Python 3.8+
 Beautiful Soup 4
+
+
+must have a data/data.json with data from Kaggle. 
